@@ -6,10 +6,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+
 ## О проекте
-##Верстка сайта скачана!
-##Проект Создал для того чтобы показать свои знания в написании кода на Laravel
-##Проект будет дорабатываться
+## Верстка сайта скачана!
+## Проект Создал для того чтобы показать свои знания в написании кода на Laravel
+## Проект будет дорабатываться
 
 
 ## About Laravel
